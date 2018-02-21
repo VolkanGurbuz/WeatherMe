@@ -1,2 +1,2 @@
 # WeatherMe
-Get weather from api which is openweathermap.org
+Shows weather from api which is openweathermap.org
